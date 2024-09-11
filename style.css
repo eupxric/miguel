@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(12, 255, 255);
+    text-align: center;
+    font-style: inherit;
+}
+
+p {
+    color: rgb(0, 61, 61);
+}
+
+img {
+    text-align: center;
+}
+
+.imagem {
+    width: 20%;
+}
+
+header {
+    border-bottom: solid 2px rgb(0, 37, 37);
+    padding: 20px;
+    font-size: medium;
+}
